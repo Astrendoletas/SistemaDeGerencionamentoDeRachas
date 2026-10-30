@@ -25,8 +25,5 @@ public class JogadorLinha extends Jogador{
 
     public void setPosicao(PosicaoLinhaEnum Posicao) {
         this.Posicao = Posicao;
-    }
-
-    
-    
+    }   
 }

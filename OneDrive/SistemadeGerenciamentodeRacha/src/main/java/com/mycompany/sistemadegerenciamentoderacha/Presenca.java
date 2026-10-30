@@ -15,12 +15,16 @@ public class Presenca {
     
     private Boolean presente;
     private Boolean pagou;
-    private BigDecimal valorPago;    
+    private BigDecimal valorPago;  
+    private Partida partida;
+    private Jogador jogador;
     
-    public Presenca(Boolean presente, Boolean pagou, BigDecimal valorPago) {
+    public Presenca(Boolean presente, Boolean pagou, BigDecimal valorPago,Partida partida,Jogador jogador) {
         this.presente = presente;
         this.pagou = pagou;
         this.valorPago = valorPago;
+        this.partida = partida;
+        this.jogador = jogador;
     }    
 
     public Boolean getPresente() {
@@ -48,5 +52,20 @@ public class Presenca {
     }
 
     
+    public Partida getPartida() {
+        return partida;
+    }
+
+    public void setPartida(Partida partida) {
+        this.partida = partida;
+    }
+
+    public Jogador getJogador() {
+        return jogador;
+    }
+
+    public void setJogador(Jogador jogador) {
+        this.jogador = jogador;
+    }    
     
 }

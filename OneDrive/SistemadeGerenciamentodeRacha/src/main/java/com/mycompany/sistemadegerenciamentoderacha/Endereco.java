@@ -72,9 +72,5 @@ public class Endereco{
 
     public void setRef(String ref) {
         this.ref = ref;
-    }
-    
-
-    
-    
+    }    
 }

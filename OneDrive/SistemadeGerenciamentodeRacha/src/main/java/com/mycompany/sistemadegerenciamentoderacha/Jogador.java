@@ -4,17 +4,17 @@
  */
 package com.mycompany.sistemadegerenciamentoderacha;
 
+import java.util.List;
+
 /**
  *
  * @author DELL
  */
 public class Jogador {
 
-    
     private String nome;
     private String apelido;
-
-
+    private List<Presenca> presenca;
 
     public String getNome() {
         return nome;
@@ -31,6 +31,12 @@ public class Jogador {
     public void setApelido(String apelido) {
         this.apelido = apelido;
     }
-    
-    
+        public List<Presenca> getPresenca() {
+        return presenca;
+    }
+
+    public void setPresenca(List<Presenca> presenca) {
+        this.presenca = presenca;
+    }
+       
 }

@@ -16,7 +16,7 @@ public class Quadra {
     private Boolean ehPublica;
     private BigDecimal precoHora;
     private Boolean ativa;
-    
+   
     private Endereco endereco;
     
     private List<Agenda> agendas;
@@ -62,7 +62,21 @@ public class Quadra {
     public void setAtiva(Boolean ativa) {
         this.ativa = ativa;
     }
-
-
     
+        public Endereco getEndereco() {
+        return endereco;
+    }
+
+    public void setEndereco(Endereco endereco) {
+        this.endereco = endereco;
+    }
+
+    public List<Agenda> getAgendas() {
+        return agendas;
+    }
+
+    public void setAgendas(List<Agenda> agendas) {
+        this.agendas = agendas;
+    }
+
 }

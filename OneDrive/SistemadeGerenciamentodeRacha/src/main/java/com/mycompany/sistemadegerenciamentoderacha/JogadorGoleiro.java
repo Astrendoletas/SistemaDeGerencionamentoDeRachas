@@ -24,8 +24,5 @@ public class JogadorGoleiro extends Jogador{
 
     public void setGoleiro(TipoGoleiroEnum Goleiro) {
         this.Goleiro = Goleiro;
-    }
-
-            
-         
+    }        
 }

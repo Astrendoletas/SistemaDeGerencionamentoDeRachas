@@ -17,18 +17,24 @@ public class Partida {
     private Integer limiteJogadores;
     private BigDecimal preco;
 
+
+    private Agenda agenda;
+    private Presenca presenca;
+
     public Quadra ConsultarQuadra(){
-    
+    return agenda.getQuadra();
     }
-    public Integer ConsultarPreco(){
-        
+    public BigDecimal ConsultarPreco(){
+    return agenda.getQuadra().getPrecohora();
     }
     
-    public Partida(String partida, String obs, Integer limiteJogadores, BigDecimal preco) {
+    public Partida(String partida, String obs, Integer limiteJogadores, BigDecimal preco,Agenda agenda,Presenca presenca) {
         this.partida = partida;
         this.obs = obs;
         this.limiteJogadores = limiteJogadores;
         this.preco = preco;
+        this.agenda = agenda;
+        this.presenca = presenca;
     }
 
     
@@ -63,5 +69,19 @@ public class Partida {
     public void setPreco(BigDecimal preco) {
         this.preco = preco;
     }
-    
+        public Agenda getAgenda() {
+        return agenda;
+    }
+
+    public void setAgenda(Agenda agenda) {
+        this.agenda = agenda;
+    }
+
+    public Presenca getPresenca() {
+        return presenca;
+    }
+
+    public void setPresenca(Presenca presenca) {
+        this.presenca = presenca;
+    }
 }
