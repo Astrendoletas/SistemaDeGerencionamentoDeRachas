@@ -1,34 +1,24 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.sistemadegerenciamentoderacha;
 
 import java.math.BigDecimal;
 
-/**
- *
- * @author DELL
- */
 public class Partida {
-    
     private String partida;
     private String obs;
     private Integer limiteJogadores;
     private BigDecimal preco;
 
-
     private Agenda agenda;
     private Presenca presenca;
 
-    public Quadra ConsultarQuadra(){
-    return agenda.getQuadra();
-    }
-    public BigDecimal ConsultarPreco(){
-    return agenda.getQuadra().getPrecohora();
-    }
-    
-    public Partida(String partida, String obs, Integer limiteJogadores, BigDecimal preco,Agenda agenda,Presenca presenca) {
+    public Partida(
+        String partida,
+        String obs,
+        Integer limiteJogadores,
+        BigDecimal preco,
+        Agenda agenda,
+        Presenca presenca
+    ) {
         this.partida = partida;
         this.obs = obs;
         this.limiteJogadores = limiteJogadores;
@@ -37,7 +27,6 @@ public class Partida {
         this.presenca = presenca;
     }
 
-    
     public String getPartida() {
         return partida;
     }
@@ -69,7 +58,8 @@ public class Partida {
     public void setPreco(BigDecimal preco) {
         this.preco = preco;
     }
-        public Agenda getAgenda() {
+
+    public Agenda getAgenda() {
         return agenda;
     }
 
@@ -83,5 +73,13 @@ public class Partida {
 
     public void setPresenca(Presenca presenca) {
         this.presenca = presenca;
+    }
+
+    public Quadra ConsultarQuadra() {
+        return agenda.getQuadra();
+    }
+
+    public BigDecimal ConsultarPreco() {
+        return agenda.getQuadra().getPrecohora();
     }
 }

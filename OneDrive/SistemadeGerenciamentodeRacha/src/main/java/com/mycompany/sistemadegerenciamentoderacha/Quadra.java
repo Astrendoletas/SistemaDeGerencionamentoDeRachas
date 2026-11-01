@@ -1,33 +1,30 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.sistemadegerenciamentoderacha;
+
 import java.math.BigDecimal;
-import java.util.List;
 import java.util.ArrayList;
-/**
- *
- * @author DELL
- */
+import java.util.List;
+
 public class Quadra {
-    
     private String nome;
     private Boolean ehPublica;
     private BigDecimal precoHora;
     private Boolean ativa;
-   
+
     private Endereco endereco;
-    
     private List<Agenda> agendas;
-    
-    public Quadra(String nome, Boolean ehPublica, BigDecimal precoHora, Boolean ativa, Endereco endereco) {
+
+    public Quadra(
+        String nome,
+        Boolean ehPublica,
+        BigDecimal precoHora,
+        Boolean ativa,
+        Endereco endereco
+    ) {
         this.nome = nome;
         this.ehPublica = ehPublica;
         this.precoHora = precoHora;
         this.ativa = ativa;
-        this.endereco= endereco;
-        
+        this.endereco = endereco;
         this.agendas = new ArrayList<>();
     }
 
@@ -62,8 +59,8 @@ public class Quadra {
     public void setAtiva(Boolean ativa) {
         this.ativa = ativa;
     }
-    
-        public Endereco getEndereco() {
+
+    public Endereco getEndereco() {
         return endereco;
     }
 
@@ -78,5 +75,4 @@ public class Quadra {
     public void setAgendas(List<Agenda> agendas) {
         this.agendas = agendas;
     }
-
 }
