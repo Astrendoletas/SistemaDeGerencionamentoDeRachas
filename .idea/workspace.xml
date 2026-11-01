@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a49d450-761e-4afa-8e0f-9b2ef7005d0f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/SistemadeGerenciamentodeRacha.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/Agenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/Endereco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/Jogador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/JogadorGoleiro$TipoGoleiroEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/JogadorGoleiro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/JogadorLinha$PosicaoLinhaEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/JogadorLinha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/Partida.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/Presenca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/Quadra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/out/production/SistemadeGerenciamentodeRacha/com/mycompany/sistemadegerenciamentoderacha/SistemadeGerenciamentodeRacha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/src/main/java/com/mycompany/sistemadegerenciamentoderacha/Agenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/src/main/java/com/mycompany/sistemadegerenciamentoderacha/Endereco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/src/main/java/com/mycompany/sistemadegerenciamentoderacha/Jogador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/src/main/java/com/mycompany/sistemadegerenciamentoderacha/JogadorGoleiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/src/main/java/com/mycompany/sistemadegerenciamentoderacha/JogadorLinha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/src/main/java/com/mycompany/sistemadegerenciamentoderacha/Partida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/src/main/java/com/mycompany/sistemadegerenciamentoderacha/Presenca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/src/main/java/com/mycompany/sistemadegerenciamentoderacha/Quadra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive/SistemadeGerenciamentodeRacha/src/main/java/com/mycompany/sistemadegerenciamentoderacha/SistemadeGerenciamentodeRacha.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RaphaelMun1z&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Astrendoletas/SistemaDeGerencionamentoDeRachas.git&quot;,
+    &quot;accountId&quot;: &quot;7b39721e-941d-4614-8a24-487ac897f60a&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3LWSF52AGZ6GjUHtB4pLJH8p0aa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Sistema de Gerenciamento de Racha.executor": "Run",
+    "Application.SistemadeGerenciamentodeRacha.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rapha/Documents/EstudosRichard/v3",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.41954023",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Sistema de Gerenciamento de Racha" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sistemadegerenciamentoderacha.SistemadeGerenciamentodeRacha" />
+      <module name="SistemadeGerenciamentodeRacha" />
+      <selectedOptions>
+        <option name="environmentVariables" visible="false" />
+      </selectedOptions>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a49d450-761e-4afa-8e0f-9b2ef7005d0f" name="Changes" comment="" />
+      <created>1793568224133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793568224133</updated>
+      <workItem from="1793568225388" duration="5089000" />
+      <workItem from="1793574707842" duration="43000" />
+      <workItem from="1793574764594" duration="1448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
